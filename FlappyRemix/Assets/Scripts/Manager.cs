@@ -16,9 +16,10 @@ public class Manager : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (BirdMovement.score > PlayerPrefs.GetInt("PersonalBest", BirdMovement.score))
+        if (BirdMovement.score >= PlayerPrefs.GetInt("PersonalBest", BirdMovement.score))
         {
             PlayerPrefs.SetInt("PersonalBest", BirdMovement.score);
+            
             best.text = "Best: " + PlayerPrefs.GetInt("PersonalBest", BirdMovement.score).ToString();
         }
 

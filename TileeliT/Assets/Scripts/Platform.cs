@@ -26,6 +26,7 @@ public class Platform : MonoBehaviour
             {
                 Destroy(gameObject);
             }
+        
         }
     }
 

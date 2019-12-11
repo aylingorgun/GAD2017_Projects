@@ -40,13 +40,13 @@ public class Player : MonoBehaviour
         rb.velocity = velocity;
     }
 
-    /*
+    
     void OnCollisionEnter2D(Collision2D collision)
     {
-
+        /*
         if (collision.gameObject.tag == "Respawn")
         {
             GameObject duplicate = Instantiate(GameObject.FindGameObjectWithTag("Player"));
-        }   
-    }*/
+        }*/
+    }
 }

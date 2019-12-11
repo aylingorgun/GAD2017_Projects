@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Sci-Fi Styled Modular Pack/Example scenes/outpost with snow.unity
+  isLoaded: 1
+  isActive: 1

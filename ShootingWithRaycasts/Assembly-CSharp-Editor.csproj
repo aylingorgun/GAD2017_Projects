@@ -62,7 +62,6 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Shared\Ramps\Editor\RampAssetEditor.cs" />
-    <Compile Include="Assets\TutorialInfo\Scripts\Editor\ReadmeEditor.cs" />
     <None Include="Assets\Editor\PackageManagerAssembly\PackageImportList.txt" />
     <Reference Include="Unity.ProGrids">
       <HintPath>D:/Projects/GAD2017_Projects/ShootingWithRaycasts/Library/ScriptAssemblies/Unity.ProGrids.dll</HintPath>

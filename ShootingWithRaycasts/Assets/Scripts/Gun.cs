@@ -27,12 +27,12 @@ public class Gun : MonoBehaviour
         if (Physics.Raycast(fpsCam.transform.position, fpsCam.transform.forward, out hit, range))
         {
             Debug.Log(hit.transform.name);
-            Instantiate(ImpactEffect, hit.point, Quaternion.LookRotation(hit.normal));
-            /*GameObject impactEffect = ObjectPooler.SharedInstance.GetPooledObject(0);
+            //Instantiate(ImpactEffect, hit.point, Quaternion.LookRotation(hit.normal));
+            GameObject impactEffect = ObjectPooler.SharedInstance.GetPooledObject(0);
             impactEffect.SetActive(true);
             impactEffect.transform.position = hit.point;
             impactEffect.transform.rotation = Quaternion.LookRotation(hit.normal);
-        */
+        
         }
     }
 }

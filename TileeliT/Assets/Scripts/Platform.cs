@@ -5,7 +5,7 @@ using UnityEngine;
 public class Platform : MonoBehaviour
 {
 
-    public float jumpForce = 10f;
+    public float jumpForce = 5f;
     public static bool colliderCheck = false;
 
     void OnCollisionEnter2D(Collision2D collision)

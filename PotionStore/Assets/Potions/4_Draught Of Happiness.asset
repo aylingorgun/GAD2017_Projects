@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4bf012ef7e8623249b796f422ef5cfbf, type: 3}
+  m_Name: 4_Draught Of Happiness
+  m_EditorClassIdentifier: 
+  potionName: Draught of Happiness
+  description: Don't worry be happy.
+  icon: {fileID: 21300000, guid: 7478203b385c1af489d65da295bff91a, type: 3}
+  cost: 20

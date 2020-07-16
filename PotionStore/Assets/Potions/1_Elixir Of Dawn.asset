@@ -14,5 +14,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   potionName: Elixir of Dawn
   description: No mercy until dawn.
-  icon: {fileID: 21300000, guid: 512d29315f8468344b8d75d66a5f797d, type: 3}
+  icon: {fileID: 21300000, guid: 766d20a274d2ac94bb501180169032bd, type: 3}
   cost: 10

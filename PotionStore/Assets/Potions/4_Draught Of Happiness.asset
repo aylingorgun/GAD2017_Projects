@@ -14,5 +14,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   potionName: Draught of Happiness
   description: Don't worry be happy.
-  icon: {fileID: 21300114, guid: 512d29315f8468344b8d75d66a5f797d, type: 3}
+  icon: {fileID: 21300000, guid: 7478203b385c1af489d65da295bff91a, type: 3}
   cost: 20

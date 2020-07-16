@@ -14,5 +14,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   potionName: Philter of Misery
   description: Misery is a butterfly.
-  icon: {fileID: 21300048, guid: 512d29315f8468344b8d75d66a5f797d, type: 3}
+  icon: {fileID: 21300000, guid: b10cbc9aca2e0d441b3aa53ad3db5249, type: 3}
   cost: 5

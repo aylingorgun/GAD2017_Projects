@@ -1,5 +1,5 @@
 # SpaceShooter
-It's a 3D Unity project for GAD2017 class.
+It's a 2D Unity project for GAD2017 class.
 
 ## Instructions
 Run the project, use WASD to move and Space to shoot. </br>
